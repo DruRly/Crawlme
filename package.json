@@ -9,7 +9,7 @@
     "node": ">=0.6.10"
   },
   "dependencies": {
-    "zombie": "2.x.x",
+    "zombie": "2.0.0-alpha19",
     "lru-cache": "2.3.x",
     "async": "0.2.6"
   },
