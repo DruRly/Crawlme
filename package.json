@@ -9,7 +9,7 @@
     "node": ">=0.6.10"
   },
   "dependencies": {
-    "zombie": "git://github.com/DruRly/zombie.git",
+    "zombie": "2.x.x",
     "lru-cache": "2.3.x",
     "async": "0.2.6"
   },
